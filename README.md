@@ -91,5 +91,4 @@ __OUTPUT:__
 
 __RESULT:__
 
-![image](https://github.com/user-attachments/assets/618db582-bad8-4a08-9409-598216119511)
-
+thus,Write a program for Autocorrelation and PSD of signals in SCILAB and verify Wiener-Khinchin relation is verified
